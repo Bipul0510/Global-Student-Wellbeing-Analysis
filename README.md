@@ -1,1 +1,0 @@
-# Globle-Student-Stress-report
