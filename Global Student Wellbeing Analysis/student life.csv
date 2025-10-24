@@ -1,0 +1,501 @@
+id,age,gender,grade,avg_sleep_hours,daily_screen_time,uses_AI_for_study,board_exam_prep,stress_level,country
+1,17,Male,11,6.1,3.3,Yes,On Track,7,Australia
+2,18,Male,12,8.4,5.7,No,Revised Fully,8,Germany
+3,15,Female,12,5.2,7.8,Yes,Falling Behind,6,Brazil
+4,17,Male,11,8.9,5.3,Yes,Just Started,7,Japan
+5,17,Male,11,6.1,2.1,No,Just Started,5,Japan
+6,18,Female,12,4.1,5.4,Yes,On Track,6,South Korea
+7,15,Female,12,6.4,6.9,No,Revised Fully,6,Nigeria
+8,15,Female,12,5.2,3.3,No,On Track,5,Canada
+9,17,Female,12,7.5,4.2,Yes,Falling Behind,6,Australia
+10,16,Male,12,5.2,4.5,No,On Track,3,Australia
+11,17,Female,11,5.5,2.9,Yes,On Track,6,South Korea
+12,17,Other,11,3.4,5.8,Yes,Falling Behind,6,Nigeria
+13,17,Male,11,5.5,4.3,Yes,Revised Fully,6,Brazil
+14,17,Female,12,3.0,5.3,No,On Track,6,Australia
+15,18,Female,11,3.8,2.7,Yes,Revised Fully,6,India
+16,15,Female,12,7.3,3.6,Yes,Falling Behind,7,USA
+17,18,Female,12,7.4,5.9,Yes,On Track,8,Nigeria
+18,18,Female,12,6.8,3.8,No,Revised Fully,5,Australia
+19,18,Male,11,4.7,8.0,Yes,On Track,4,Nigeria
+20,17,Male,12,6.1,3.7,Yes,Falling Behind,4,Japan
+21,16,Female,11,6.2,4.9,Yes,Revised Fully,6,Canada
+22,15,Female,12,4.5,6.4,Yes,On Track,6,Australia
+23,16,Female,11,8.5,1.7,No,On Track,5,Canada
+24,18,Female,11,7.5,1.0,Yes,Falling Behind,4,UK
+25,18,Female,12,5.9,1.4,Yes,Just Started,6,USA
+26,16,Female,11,6.2,7.0,No,Revised Fully,7,South Korea
+27,16,Female,11,6.5,3.4,Yes,Revised Fully,8,Canada
+28,16,Female,12,3.1,9.6,No,Revised Fully,5,Australia
+29,18,Female,12,5.8,3.4,Yes,On Track,6,Germany
+30,18,Female,12,5.2,4.9,No,Falling Behind,5,South Korea
+31,15,Female,12,4.7,7.6,Yes,Revised Fully,6,South Korea
+32,15,Male,12,5.8,8.5,Yes,On Track,5,Brazil
+33,18,Male,11,8.9,8.6,No,On Track,8,Canada
+34,16,Male,11,7.2,6.9,No,On Track,3,Germany
+35,16,Female,11,5.3,6.5,No,Falling Behind,6,Canada
+36,15,Male,12,7.1,5.7,Yes,Just Started,7,Brazil
+37,18,Male,12,8.3,6.1,No,On Track,7,USA
+38,15,Female,11,7.6,3.4,No,Falling Behind,10,Australia
+39,15,Male,12,6.3,2.9,Yes,On Track,7,Japan
+40,17,Female,12,5.2,4.5,No,Just Started,4,Japan
+41,17,Male,11,7.2,4.2,No,On Track,6,Canada
+42,17,Male,12,6.8,3.6,Yes,Falling Behind,3,Brazil
+43,16,Female,12,7.5,5.9,Yes,Revised Fully,6,Nigeria
+44,18,Male,12,7.2,6.4,Yes,Revised Fully,5,Australia
+45,18,Male,11,7.8,4.7,Yes,Falling Behind,8,Canada
+46,18,Female,12,5.4,7.5,Yes,On Track,5,Nigeria
+47,18,Female,12,8.2,2.2,Yes,Falling Behind,6,Australia
+48,17,Male,12,6.5,4.1,Yes,On Track,5,Nigeria
+49,16,Female,12,9.3,3.1,Yes,On Track,10,South Korea
+50,16,Male,12,5.2,1.0,Yes,Falling Behind,6,Canada
+51,17,Male,12,8.8,4.3,No,On Track,10,Brazil
+52,16,Female,11,6.5,4.3,No,On Track,8,Australia
+53,17,Female,12,5.2,7.5,Yes,Revised Fully,7,Japan
+54,18,Female,12,5.5,5.8,No,Just Started,7,Canada
+55,17,Female,11,5.7,2.5,Yes,Revised Fully,7,Australia
+56,18,Other,12,6.8,8.2,Yes,On Track,3,Australia
+57,18,Female,12,7.0,6.9,Yes,On Track,6,Nigeria
+58,15,Male,12,5.3,5.7,Yes,Just Started,8,Nigeria
+59,17,Female,12,6.2,4.0,No,On Track,6,Germany
+60,15,Male,11,9.4,2.6,No,On Track,4,Canada
+61,17,Male,12,8.8,3.8,Yes,Falling Behind,6,UK
+62,17,Male,12,6.9,6.7,Yes,Revised Fully,10,India
+63,15,Male,11,6.3,8.3,Yes,Revised Fully,9,UK
+64,15,Other,12,6.4,7.6,Yes,On Track,6,Australia
+65,17,Female,12,7.1,3.5,Yes,On Track,8,Germany
+66,16,Female,12,4.7,2.3,Yes,Just Started,6,Australia
+67,18,Male,12,5.8,4.8,No,On Track,3,UK
+68,15,Male,11,3.7,1.0,No,Revised Fully,5,Australia
+69,18,Male,11,6.8,5.1,Yes,Revised Fully,10,Nigeria
+70,16,Male,11,7.2,4.2,No,Revised Fully,6,Canada
+71,16,Female,12,5.5,3.6,Yes,On Track,6,Japan
+72,16,Female,11,8.6,1.3,Yes,On Track,6,UK
+73,15,Female,11,4.4,5.5,Yes,Falling Behind,10,India
+74,16,Male,11,4.0,3.4,Yes,Just Started,10,India
+75,15,Female,12,6.5,2.2,No,Just Started,10,Nigeria
+76,16,Female,12,7.8,1.0,Yes,On Track,6,Canada
+77,18,Female,11,8.7,4.4,Yes,On Track,7,USA
+78,18,Female,11,5.5,8.0,Yes,Just Started,3,USA
+79,17,Male,12,7.8,7.8,Yes,Revised Fully,9,Brazil
+80,18,Male,12,6.1,3.6,No,Just Started,4,Brazil
+81,17,Male,11,5.9,3.3,Yes,On Track,7,UK
+82,18,Female,12,7.5,5.4,Yes,Falling Behind,4,Nigeria
+83,15,Male,11,7.2,2.5,Yes,Revised Fully,5,Nigeria
+84,18,Male,11,3.8,5.1,Yes,Revised Fully,5,Australia
+85,17,Male,12,8.4,6.0,Yes,Falling Behind,5,India
+86,17,Male,11,8.3,7.0,Yes,On Track,5,India
+87,16,Female,12,5.3,4.3,Yes,Falling Behind,5,India
+88,15,Female,11,6.8,4.1,No,On Track,8,Germany
+89,18,Male,12,6.9,2.7,No,Falling Behind,4,Canada
+90,16,Male,12,6.6,2.8,No,Just Started,7,South Korea
+91,18,Female,11,5.4,4.0,Yes,Falling Behind,9,Australia
+92,18,Male,12,5.2,5.2,Yes,Just Started,5,USA
+93,16,Male,11,6.2,6.3,Yes,On Track,5,Nigeria
+94,16,Male,12,8.0,2.9,No,Revised Fully,6,USA
+95,16,Male,11,7.0,7.5,Yes,Just Started,9,Germany
+96,16,Female,11,5.6,4.0,Yes,On Track,7,USA
+97,16,Female,11,7.4,4.5,Yes,On Track,5,India
+98,18,Male,12,3.0,3.0,Yes,Falling Behind,7,Japan
+99,16,Male,12,7.9,1.0,Yes,On Track,4,Australia
+100,15,Female,12,3.6,6.3,Yes,Revised Fully,8,Japan
+101,17,Female,11,5.7,6.0,No,Just Started,7,Brazil
+102,16,Female,12,4.5,3.9,Yes,Falling Behind,6,Japan
+103,16,Female,11,4.3,4.6,Yes,On Track,5,South Korea
+104,18,Male,12,7.9,5.5,Yes,Falling Behind,5,Nigeria
+105,16,Male,11,5.5,1.4,Yes,Revised Fully,8,Germany
+106,16,Female,11,6.7,3.4,Yes,On Track,9,Nigeria
+107,16,Male,11,6.1,6.1,No,Falling Behind,5,South Korea
+108,18,Female,12,6.9,2.0,Yes,Revised Fully,7,Nigeria
+109,16,Female,12,6.3,5.1,No,Revised Fully,2,Japan
+110,17,Female,11,4.3,1.8,Yes,On Track,5,Canada
+111,18,Male,12,7.7,5.4,Yes,Revised Fully,6,Nigeria
+112,17,Female,12,5.5,4.4,No,On Track,5,Brazil
+113,18,Male,12,3.9,1.3,Yes,On Track,5,Australia
+114,16,Female,11,5.6,6.8,Yes,Just Started,5,Australia
+115,17,Female,11,8.5,3.0,Yes,Revised Fully,7,USA
+116,18,Male,12,7.5,2.9,Yes,On Track,6,UK
+117,15,Other,11,5.7,4.9,No,On Track,2,Japan
+118,16,Female,11,5.7,6.8,Yes,On Track,2,India
+119,18,Male,12,5.7,2.5,No,On Track,5,South Korea
+120,15,Male,12,9.3,4.6,No,On Track,7,Germany
+121,18,Male,11,6.8,5.4,Yes,On Track,1,Japan
+122,15,Male,11,6.8,5.9,No,Falling Behind,6,Australia
+123,16,Male,12,7.7,4.9,Yes,Revised Fully,5,USA
+124,17,Female,11,6.6,3.8,No,Revised Fully,9,Nigeria
+125,15,Male,11,5.8,2.8,Yes,Revised Fully,6,India
+126,18,Male,11,5.9,4.7,Yes,On Track,7,India
+127,16,Female,12,6.1,2.4,Yes,Just Started,7,UK
+128,15,Male,12,6.1,1.0,Yes,Just Started,2,Canada
+129,18,Female,11,7.3,5.4,Yes,Just Started,8,UK
+130,18,Male,11,6.3,6.3,No,Just Started,7,Nigeria
+131,18,Male,11,7.3,1.0,Yes,Just Started,8,Japan
+132,15,Female,12,6.1,2.5,Yes,Falling Behind,10,Brazil
+133,15,Female,11,6.3,5.7,No,On Track,2,South Korea
+134,15,Female,11,3.2,8.6,Yes,Revised Fully,10,India
+135,17,Female,12,7.6,4.5,No,Revised Fully,6,Germany
+136,15,Female,11,6.7,3.0,No,Revised Fully,7,Japan
+137,15,Male,12,7.7,4.1,No,Falling Behind,6,Germany
+138,15,Male,11,3.0,7.2,No,On Track,6,USA
+139,17,Female,11,9.3,3.2,Yes,Falling Behind,5,Germany
+140,15,Female,11,6.0,2.9,Yes,Just Started,7,India
+141,18,Other,12,7.9,3.5,No,Falling Behind,3,India
+142,15,Male,12,4.6,2.6,Yes,Falling Behind,8,India
+143,18,Male,12,7.1,4.7,Yes,On Track,6,Japan
+144,18,Female,11,4.6,7.7,Yes,Falling Behind,4,Japan
+145,18,Male,12,5.3,5.1,No,Just Started,6,South Korea
+146,17,Female,11,9.1,4.0,Yes,Revised Fully,9,Australia
+147,17,Female,11,5.9,3.9,Yes,Revised Fully,5,Canada
+148,17,Male,12,6.5,1.4,Yes,Falling Behind,7,Nigeria
+149,15,Female,11,7.5,6.3,Yes,Revised Fully,5,Nigeria
+150,18,Female,11,6.9,4.3,Yes,On Track,8,USA
+151,17,Male,11,6.4,4.1,Yes,Revised Fully,8,UK
+152,17,Female,11,6.7,10.9,Yes,Falling Behind,10,South Korea
+153,15,Female,11,9.8,5.1,No,Falling Behind,6,Australia
+154,17,Female,12,6.1,3.0,Yes,Revised Fully,8,Brazil
+155,15,Male,11,6.5,3.6,No,Just Started,7,USA
+156,16,Female,12,7.8,6.8,No,On Track,9,Japan
+157,17,Male,12,7.9,4.7,Yes,Just Started,5,Australia
+158,16,Male,11,8.0,1.6,Yes,On Track,8,India
+159,15,Female,11,7.2,6.3,Yes,Falling Behind,6,Japan
+160,18,Male,11,4.5,3.2,No,On Track,6,UK
+161,17,Male,12,8.7,8.2,Yes,On Track,7,UK
+162,15,Female,11,4.5,6.7,Yes,Falling Behind,7,Nigeria
+163,18,Female,12,6.7,3.6,Yes,On Track,6,Canada
+164,18,Female,11,5.1,7.1,Yes,Falling Behind,7,Canada
+165,16,Female,12,6.1,4.6,Yes,Just Started,10,Brazil
+166,15,Male,11,6.7,6.2,Yes,On Track,8,Japan
+167,18,Male,11,6.7,5.5,No,Revised Fully,8,Japan
+168,17,Male,12,6.8,2.8,Yes,Falling Behind,6,UK
+169,17,Female,12,8.6,3.2,Yes,Revised Fully,5,India
+170,16,Female,11,6.9,6.6,Yes,On Track,8,India
+171,18,Female,12,5.8,3.8,No,On Track,8,Germany
+172,15,Female,12,7.6,3.7,Yes,On Track,9,India
+173,17,Male,12,8.0,2.6,No,On Track,5,Australia
+174,18,Female,12,4.4,5.3,Yes,On Track,6,Canada
+175,18,Male,11,7.1,8.6,Yes,Revised Fully,3,India
+176,16,Female,11,7.3,2.4,Yes,Just Started,6,South Korea
+177,17,Male,11,5.8,4.5,Yes,Just Started,8,Japan
+178,17,Female,12,8.3,7.3,Yes,Revised Fully,6,India
+179,15,Male,12,6.0,4.3,Yes,On Track,8,Germany
+180,17,Male,11,6.4,5.4,No,On Track,6,Brazil
+181,15,Male,11,5.9,2.4,Yes,On Track,7,Brazil
+182,17,Female,12,6.2,5.4,Yes,On Track,4,UK
+183,16,Female,12,4.6,4.1,Yes,Falling Behind,7,India
+184,17,Male,12,4.0,6.5,Yes,Falling Behind,1,Japan
+185,15,Male,11,8.6,6.9,Yes,Falling Behind,6,Japan
+186,15,Female,11,4.9,9.7,Yes,Falling Behind,3,Canada
+187,16,Male,11,4.7,5.7,Yes,Just Started,9,Brazil
+188,17,Female,12,3.0,5.2,Yes,Revised Fully,8,UK
+189,17,Female,11,5.2,4.9,Yes,On Track,7,India
+190,16,Male,12,4.2,3.8,Yes,Just Started,10,Brazil
+191,17,Male,11,8.7,5.2,Yes,Just Started,5,Brazil
+192,17,Other,12,7.7,3.9,Yes,On Track,10,Japan
+193,15,Male,12,5.2,4.8,No,Falling Behind,8,India
+194,17,Male,12,9.6,7.1,Yes,Falling Behind,6,USA
+195,17,Female,11,7.7,2.5,Yes,Just Started,9,India
+196,16,Female,11,5.7,6.8,Yes,Just Started,4,Australia
+197,16,Other,11,3.0,7.1,No,On Track,5,Brazil
+198,18,Female,12,9.6,4.3,No,Falling Behind,5,Canada
+199,15,Male,12,4.1,1.0,Yes,Falling Behind,5,USA
+200,17,Male,12,3.7,3.3,No,Falling Behind,4,Germany
+201,17,Female,12,7.7,7.1,Yes,On Track,9,UK
+202,18,Female,12,9.9,4.5,Yes,Just Started,6,India
+203,17,Male,11,8.3,2.5,No,Revised Fully,7,Canada
+204,15,Female,12,7.0,3.5,No,Just Started,5,Germany
+205,18,Male,11,7.1,6.2,Yes,Just Started,3,Germany
+206,15,Female,11,7.5,5.6,Yes,Revised Fully,7,Brazil
+207,18,Male,12,7.3,4.0,Yes,Falling Behind,3,Australia
+208,18,Male,11,6.6,3.8,Yes,Revised Fully,6,Brazil
+209,16,Male,11,6.4,3.7,No,On Track,4,UK
+210,15,Male,12,6.1,2.7,Yes,Revised Fully,10,USA
+211,17,Male,11,5.1,7.7,Yes,On Track,8,Japan
+212,17,Female,12,5.8,3.9,Yes,Revised Fully,7,South Korea
+213,15,Female,11,3.7,6.9,Yes,On Track,9,USA
+214,17,Female,11,6.1,7.5,Yes,On Track,5,UK
+215,17,Other,11,4.7,6.5,Yes,On Track,8,Japan
+216,15,Male,11,4.5,3.6,No,On Track,7,Germany
+217,18,Male,12,6.5,5.3,No,Revised Fully,7,USA
+218,15,Female,11,8.3,4.5,Yes,Revised Fully,9,Japan
+219,18,Male,12,7.6,2.7,No,Falling Behind,8,India
+220,17,Other,12,3.8,5.1,No,On Track,7,Brazil
+221,17,Male,12,4.7,2.1,No,On Track,3,South Korea
+222,17,Other,12,7.6,6.9,Yes,On Track,5,Canada
+223,16,Male,12,4.7,3.6,Yes,On Track,6,India
+224,18,Female,11,5.9,4.9,Yes,Just Started,7,USA
+225,16,Female,11,7.0,5.1,Yes,On Track,4,Nigeria
+226,16,Other,11,4.7,4.0,Yes,Falling Behind,10,Japan
+227,15,Male,12,6.4,5.7,Yes,On Track,10,Germany
+228,16,Female,11,4.2,3.6,Yes,On Track,8,Germany
+229,15,Other,12,5.3,6.2,No,Falling Behind,7,Nigeria
+230,15,Female,12,6.7,1.8,Yes,Revised Fully,6,USA
+231,16,Female,11,3.8,4.8,Yes,On Track,5,Germany
+232,18,Female,12,6.9,8.4,No,On Track,7,Australia
+233,18,Male,11,6.2,2.5,No,Falling Behind,7,Germany
+234,18,Female,11,7.0,3.1,No,On Track,4,South Korea
+235,18,Female,12,6.5,5.5,No,On Track,7,Australia
+236,18,Female,12,8.2,4.9,Yes,Just Started,6,UK
+237,16,Male,12,6.4,5.2,No,Revised Fully,3,UK
+238,16,Male,11,5.6,5.5,Yes,Falling Behind,5,Japan
+239,17,Female,11,6.4,5.8,Yes,Falling Behind,6,Australia
+240,18,Female,12,7.0,6.7,Yes,Falling Behind,10,India
+241,16,Male,12,6.3,5.3,Yes,Falling Behind,8,Japan
+242,17,Female,12,6.3,4.0,Yes,Revised Fully,4,India
+243,18,Male,11,5.1,5.8,Yes,Revised Fully,7,South Korea
+244,15,Male,12,5.2,8.3,No,On Track,3,Brazil
+245,17,Male,11,4.1,4.2,Yes,Falling Behind,9,USA
+246,16,Male,11,8.8,2.6,Yes,Falling Behind,6,Australia
+247,15,Female,12,4.3,6.7,No,Just Started,6,Nigeria
+248,15,Male,11,5.2,4.3,Yes,Revised Fully,9,Canada
+249,15,Other,12,5.1,1.0,Yes,Falling Behind,4,USA
+250,17,Other,11,7.5,6.2,Yes,On Track,4,South Korea
+251,16,Female,11,5.8,3.4,Yes,Revised Fully,5,Australia
+252,15,Female,12,8.1,4.3,Yes,On Track,9,UK
+253,18,Male,12,5.2,5.2,No,On Track,3,USA
+254,15,Female,12,6.6,4.9,Yes,On Track,1,India
+255,15,Female,12,4.9,5.9,Yes,Revised Fully,6,Nigeria
+256,17,Male,12,9.4,3.6,No,On Track,8,USA
+257,17,Female,12,4.4,5.5,No,Falling Behind,9,Canada
+258,16,Female,12,6.7,4.0,Yes,Just Started,6,South Korea
+259,18,Female,11,7.2,6.0,Yes,On Track,6,South Korea
+260,17,Female,12,6.8,5.7,Yes,Falling Behind,9,Japan
+261,15,Female,11,5.9,2.6,Yes,Falling Behind,3,South Korea
+262,16,Male,12,6.0,6.7,Yes,On Track,6,Japan
+263,15,Female,12,6.3,3.4,Yes,Revised Fully,7,South Korea
+264,15,Female,11,6.0,6.1,No,On Track,7,Canada
+265,17,Male,12,7.6,5.2,Yes,Falling Behind,5,South Korea
+266,16,Male,12,9.5,8.2,Yes,Falling Behind,7,Nigeria
+267,18,Male,11,5.4,4.1,Yes,Revised Fully,2,Brazil
+268,18,Female,12,4.1,3.8,Yes,Revised Fully,5,UK
+269,17,Other,12,6.1,4.5,Yes,On Track,7,Nigeria
+270,17,Male,11,10.0,3.9,Yes,On Track,5,South Korea
+271,16,Female,12,5.0,6.1,No,Revised Fully,7,Australia
+272,18,Male,11,8.7,1.3,Yes,Falling Behind,7,India
+273,18,Other,12,8.7,2.4,Yes,Just Started,6,Brazil
+274,18,Female,12,5.4,2.4,Yes,Just Started,7,UK
+275,15,Female,12,7.1,6.4,Yes,Just Started,5,India
+276,18,Male,12,8.6,7.9,Yes,Falling Behind,6,Nigeria
+277,15,Male,12,5.6,4.3,Yes,On Track,8,Canada
+278,16,Male,12,5.9,4.2,Yes,Revised Fully,7,Canada
+279,15,Male,11,5.3,4.6,Yes,Falling Behind,5,India
+280,16,Female,12,4.7,6.8,No,On Track,7,Australia
+281,18,Female,11,5.2,2.6,No,Just Started,8,India
+282,18,Other,12,4.4,5.0,No,Just Started,2,Nigeria
+283,16,Other,11,6.3,6.5,No,Falling Behind,9,India
+284,17,Female,11,5.0,5.5,Yes,On Track,6,UK
+285,16,Female,11,6.6,4.9,No,Falling Behind,7,Australia
+286,17,Female,12,3.9,6.5,Yes,Just Started,9,Germany
+287,15,Female,11,6.7,1.0,No,Just Started,4,USA
+288,15,Male,12,7.5,5.9,No,On Track,5,Germany
+289,15,Male,11,3.2,3.2,No,On Track,6,Japan
+290,18,Male,11,6.8,1.0,No,Just Started,5,India
+291,15,Female,12,8.0,5.5,Yes,Falling Behind,10,Canada
+292,17,Female,12,4.4,7.2,Yes,Falling Behind,5,Germany
+293,15,Male,11,8.7,4.2,Yes,Just Started,5,South Korea
+294,16,Female,12,6.8,6.4,Yes,On Track,7,Nigeria
+295,16,Female,12,5.1,7.7,Yes,Revised Fully,4,Germany
+296,18,Male,12,6.1,7.1,Yes,On Track,6,Brazil
+297,16,Male,11,7.0,7.8,No,Falling Behind,7,Australia
+298,17,Female,11,6.3,6.0,Yes,Just Started,6,Nigeria
+299,15,Female,12,7.0,4.7,No,Falling Behind,6,Canada
+300,18,Female,11,4.8,1.3,No,Just Started,5,Japan
+301,15,Female,12,6.5,4.0,No,Falling Behind,3,Germany
+302,15,Female,12,4.1,2.8,No,On Track,7,Australia
+303,17,Female,12,6.0,8.8,Yes,On Track,10,USA
+304,16,Female,12,4.8,4.1,No,Falling Behind,7,Australia
+305,16,Female,12,5.1,4.7,No,Falling Behind,7,Australia
+306,15,Male,11,8.1,5.6,Yes,On Track,8,Nigeria
+307,18,Male,12,7.8,4.6,Yes,Falling Behind,4,USA
+308,16,Male,11,7.1,7.9,No,Falling Behind,10,Australia
+309,18,Female,12,4.6,3.3,Yes,Revised Fully,7,Brazil
+310,16,Female,12,5.7,4.9,Yes,Revised Fully,10,Germany
+311,18,Female,12,8.0,3.0,Yes,Revised Fully,5,Germany
+312,17,Male,12,6.4,1.9,Yes,On Track,10,Brazil
+313,18,Male,12,9.7,3.3,Yes,On Track,8,Germany
+314,17,Male,11,6.8,4.4,No,Revised Fully,8,Australia
+315,17,Male,11,6.5,3.6,Yes,Falling Behind,7,Japan
+316,18,Female,12,5.7,3.1,Yes,On Track,6,Australia
+317,17,Male,11,6.4,1.7,Yes,Just Started,9,Nigeria
+318,15,Male,11,6.0,4.3,Yes,Revised Fully,7,South Korea
+319,17,Female,11,7.3,1.5,No,Falling Behind,3,Japan
+320,16,Male,11,7.6,6.0,Yes,On Track,4,Canada
+321,18,Female,11,5.0,4.7,Yes,Revised Fully,6,Canada
+322,15,Female,11,4.2,1.6,Yes,Falling Behind,7,Japan
+323,18,Male,11,3.4,3.9,Yes,Revised Fully,6,Australia
+324,16,Female,11,7.0,3.0,No,Revised Fully,9,India
+325,16,Female,12,4.5,5.1,No,Just Started,3,South Korea
+326,16,Female,11,3.0,7.2,Yes,Falling Behind,7,Brazil
+327,17,Male,11,6.8,1.0,Yes,On Track,3,Australia
+328,17,Female,12,9.9,4.7,Yes,Revised Fully,8,Japan
+329,18,Female,11,6.2,4.2,Yes,Revised Fully,6,India
+330,18,Male,12,7.5,5.8,Yes,Revised Fully,7,Australia
+331,15,Male,12,6.3,4.9,Yes,On Track,5,India
+332,15,Other,11,6.1,3.0,Yes,On Track,9,Japan
+333,18,Female,11,7.6,3.9,Yes,Just Started,9,Australia
+334,17,Male,12,5.8,2.9,No,Revised Fully,8,USA
+335,16,Female,12,6.6,6.7,No,Just Started,6,Germany
+336,18,Male,12,6.7,4.5,Yes,Revised Fully,8,Japan
+337,15,Male,12,5.2,8.3,No,Falling Behind,5,Canada
+338,17,Male,11,7.7,4.4,Yes,Revised Fully,8,Canada
+339,18,Male,12,5.9,3.1,Yes,Just Started,10,South Korea
+340,18,Male,11,5.1,1.5,No,Falling Behind,9,UK
+341,17,Male,12,7.0,1.0,No,Revised Fully,5,Canada
+342,18,Female,12,4.9,1.3,No,On Track,7,UK
+343,17,Male,12,6.2,5.0,Yes,Falling Behind,4,USA
+344,16,Male,12,6.2,5.5,Yes,Revised Fully,8,Japan
+345,17,Female,11,7.8,1.3,No,On Track,7,India
+346,17,Male,11,6.9,6.3,Yes,On Track,3,South Korea
+347,17,Female,11,6.2,3.5,Yes,On Track,4,Germany
+348,18,Male,11,7.4,4.8,Yes,On Track,6,Brazil
+349,18,Male,12,8.3,7.7,Yes,On Track,6,UK
+350,17,Male,11,7.0,6.3,Yes,Falling Behind,4,Germany
+351,18,Male,11,6.2,4.0,Yes,Just Started,7,South Korea
+352,15,Male,12,4.2,2.7,No,Falling Behind,7,South Korea
+353,15,Male,12,4.6,1.0,Yes,On Track,6,Canada
+354,18,Male,12,5.7,3.1,Yes,On Track,5,Germany
+355,18,Male,12,5.3,4.1,Yes,Revised Fully,9,Australia
+356,17,Male,11,5.9,2.5,Yes,Falling Behind,10,Nigeria
+357,16,Male,11,6.3,4.2,Yes,Just Started,6,South Korea
+358,18,Male,12,7.0,4.7,Yes,Revised Fully,5,UK
+359,15,Female,12,6.1,4.1,No,Revised Fully,7,Brazil
+360,17,Female,11,6.9,3.2,Yes,On Track,6,Brazil
+361,18,Male,12,6.3,4.8,No,Revised Fully,6,USA
+362,15,Female,11,3.2,5.4,Yes,On Track,8,USA
+363,15,Female,11,4.8,2.3,Yes,Just Started,3,Canada
+364,16,Male,12,6.0,7.3,Yes,Revised Fully,9,Australia
+365,17,Female,12,4.4,4.3,Yes,On Track,7,Canada
+366,17,Female,12,7.1,4.5,No,On Track,6,Brazil
+367,16,Male,11,8.5,5.9,Yes,On Track,6,India
+368,16,Male,12,8.0,5.0,Yes,Revised Fully,6,Brazil
+369,17,Female,11,5.9,6.4,No,On Track,3,South Korea
+370,17,Female,11,8.4,5.1,No,Falling Behind,9,Germany
+371,18,Male,12,6.4,3.3,No,On Track,7,Germany
+372,18,Male,12,5.7,5.2,Yes,Revised Fully,7,South Korea
+373,16,Male,12,5.3,2.2,No,Just Started,8,South Korea
+374,18,Female,12,5.7,4.7,Yes,Revised Fully,4,Brazil
+375,15,Female,12,5.6,4.4,Yes,Revised Fully,7,Germany
+376,18,Male,12,6.5,4.1,Yes,On Track,6,Germany
+377,18,Male,11,6.4,4.2,Yes,On Track,8,Japan
+378,15,Female,11,6.2,1.0,Yes,Revised Fully,2,Germany
+379,16,Male,11,6.9,3.4,Yes,Falling Behind,6,South Korea
+380,15,Male,11,8.0,4.7,No,Falling Behind,5,USA
+381,18,Female,12,7.6,4.8,Yes,On Track,7,Australia
+382,16,Female,12,4.0,2.4,Yes,On Track,7,India
+383,18,Female,11,3.0,7.0,Yes,On Track,5,South Korea
+384,15,Female,11,7.6,2.8,No,Just Started,5,Germany
+385,15,Male,12,4.1,6.4,Yes,On Track,6,UK
+386,18,Male,11,5.9,5.4,Yes,Falling Behind,5,Brazil
+387,17,Female,12,4.4,3.2,No,On Track,8,Brazil
+388,17,Male,12,3.5,8.1,No,Revised Fully,6,Australia
+389,15,Male,12,7.0,2.1,Yes,On Track,1,South Korea
+390,15,Male,12,7.3,6.3,Yes,Just Started,6,Australia
+391,17,Male,12,5.3,6.5,No,Just Started,4,USA
+392,17,Male,11,3.0,3.2,Yes,On Track,3,Nigeria
+393,18,Male,12,5.4,7.3,Yes,Just Started,4,Canada
+394,18,Male,12,6.8,4.0,No,Just Started,7,UK
+395,17,Male,11,4.0,5.1,Yes,Just Started,9,Canada
+396,18,Female,12,6.5,5.0,Yes,Just Started,7,Nigeria
+397,18,Female,12,6.2,4.2,Yes,On Track,5,UK
+398,16,Female,12,7.1,6.1,Yes,Falling Behind,7,Canada
+399,18,Female,12,6.4,6.1,Yes,On Track,6,UK
+400,15,Female,12,4.7,1.0,No,On Track,5,Australia
+401,18,Male,12,8.0,7.1,Yes,Just Started,4,India
+402,18,Female,12,6.0,1.2,Yes,On Track,3,Japan
+403,17,Female,12,6.2,6.6,Yes,Revised Fully,6,UK
+404,15,Female,12,4.8,6.8,Yes,Just Started,7,Nigeria
+405,18,Male,12,5.5,2.3,No,Just Started,6,Australia
+406,18,Male,12,4.9,3.7,Yes,Just Started,6,Japan
+407,16,Male,11,5.9,2.3,Yes,On Track,5,Australia
+408,18,Male,12,8.8,4.1,Yes,On Track,8,USA
+409,18,Female,12,4.1,3.9,Yes,Falling Behind,4,Germany
+410,16,Female,11,3.8,6.1,Yes,On Track,8,Brazil
+411,17,Male,12,8.4,7.1,No,On Track,4,USA
+412,18,Other,11,5.9,7.3,No,Falling Behind,5,Nigeria
+413,16,Female,11,5.2,3.4,Yes,Revised Fully,4,South Korea
+414,15,Male,12,7.8,4.1,Yes,Falling Behind,5,South Korea
+415,17,Male,11,5.3,1.1,No,On Track,8,Brazil
+416,15,Male,12,8.9,2.9,No,Revised Fully,8,Australia
+417,15,Male,12,7.2,6.4,Yes,On Track,8,India
+418,16,Male,12,5.5,7.7,Yes,On Track,8,Nigeria
+419,18,Male,11,9.4,2.0,Yes,Revised Fully,4,Brazil
+420,16,Male,11,5.3,3.3,No,Revised Fully,6,Japan
+421,16,Male,12,7.3,4.4,No,Revised Fully,5,Japan
+422,16,Female,12,6.6,5.1,Yes,On Track,9,South Korea
+423,16,Male,12,8.2,2.9,Yes,Just Started,4,Germany
+424,17,Female,11,8.5,5.3,No,Revised Fully,8,Australia
+425,18,Male,12,6.2,3.6,No,Falling Behind,8,South Korea
+426,15,Other,12,5.1,4.5,No,Revised Fully,10,India
+427,15,Male,12,6.9,5.6,No,Just Started,6,Brazil
+428,18,Male,11,5.2,4.5,Yes,Falling Behind,8,UK
+429,15,Other,12,9.2,3.6,Yes,Falling Behind,10,India
+430,18,Female,12,6.4,4.3,Yes,Just Started,5,UK
+431,15,Female,12,5.7,4.3,Yes,Revised Fully,3,Australia
+432,16,Male,11,6.5,3.8,Yes,Falling Behind,3,Brazil
+433,15,Male,12,4.2,4.0,No,Revised Fully,8,Japan
+434,18,Female,12,4.7,7.7,Yes,Falling Behind,3,Japan
+435,18,Female,11,8.0,5.6,No,On Track,6,USA
+436,18,Female,12,5.2,3.9,Yes,Falling Behind,7,Japan
+437,18,Female,12,4.6,5.9,No,Just Started,7,Nigeria
+438,18,Male,11,7.0,3.8,Yes,Just Started,7,USA
+439,17,Female,11,8.0,6.8,Yes,On Track,7,USA
+440,17,Male,12,7.3,5.2,Yes,Falling Behind,9,Japan
+441,15,Male,11,7.7,4.3,Yes,On Track,5,South Korea
+442,18,Male,12,5.1,5.4,No,Just Started,5,Germany
+443,15,Female,11,4.1,1.4,No,Just Started,5,Germany
+444,18,Male,12,8.5,2.2,Yes,Revised Fully,8,Nigeria
+445,18,Male,11,5.7,2.1,Yes,Just Started,8,Canada
+446,17,Female,12,5.8,4.8,Yes,Revised Fully,7,South Korea
+447,17,Male,12,8.2,8.0,Yes,Falling Behind,9,Canada
+448,16,Female,12,7.0,9.0,No,On Track,4,UK
+449,17,Male,12,6.9,5.8,No,Falling Behind,10,South Korea
+450,16,Female,11,9.4,5.5,Yes,Revised Fully,10,Brazil
+451,16,Female,12,5.2,1.0,No,Revised Fully,8,Canada
+452,16,Male,11,7.6,3.4,Yes,Falling Behind,10,Nigeria
+453,16,Male,11,6.3,2.9,No,Just Started,3,Nigeria
+454,16,Male,11,6.6,3.3,Yes,On Track,5,South Korea
+455,15,Male,12,8.5,4.2,No,Falling Behind,5,USA
+456,17,Other,12,7.0,3.6,No,Revised Fully,8,Brazil
+457,16,Male,12,7.0,1.0,Yes,Revised Fully,4,Australia
+458,18,Female,11,7.8,6.0,No,Revised Fully,8,Brazil
+459,17,Male,11,5.7,2.4,Yes,On Track,9,Nigeria
+460,17,Female,12,4.9,5.0,Yes,On Track,8,UK
+461,16,Female,11,4.6,8.6,Yes,Revised Fully,7,Canada
+462,15,Female,12,3.3,2.7,No,Falling Behind,5,Canada
+463,16,Male,11,9.3,1.0,No,On Track,5,UK
+464,15,Male,12,4.5,3.9,No,Revised Fully,9,India
+465,18,Male,12,5.9,6.7,No,Falling Behind,8,South Korea
+466,17,Female,11,5.8,8.4,Yes,Revised Fully,6,Nigeria
+467,18,Female,11,6.7,2.0,No,Just Started,6,Germany
+468,15,Other,12,7.4,5.5,Yes,On Track,2,Japan
+469,15,Male,12,7.5,3.6,Yes,On Track,4,UK
+470,18,Female,11,5.3,4.3,Yes,Revised Fully,10,UK
+471,15,Female,12,5.9,9.8,No,Revised Fully,4,Brazil
+472,18,Male,11,6.6,1.5,No,Revised Fully,7,South Korea
+473,17,Male,11,5.8,5.0,Yes,Just Started,9,South Korea
+474,18,Female,12,8.6,5.4,Yes,Just Started,4,Germany
+475,17,Female,11,6.9,6.7,No,Just Started,7,Japan
+476,18,Female,12,7.3,4.7,Yes,Falling Behind,8,South Korea
+477,15,Male,11,7.2,5.1,No,Falling Behind,7,USA
+478,18,Female,11,8.0,3.7,No,Falling Behind,10,Nigeria
+479,15,Male,12,6.5,5.0,Yes,On Track,3,USA
+480,18,Male,11,4.3,3.8,Yes,Falling Behind,9,India
+481,18,Male,12,6.8,5.7,No,On Track,6,Nigeria
+482,16,Female,11,5.2,3.8,No,Just Started,8,Australia
+483,15,Female,11,5.4,5.3,Yes,Falling Behind,7,Nigeria
+484,16,Female,11,7.1,4.4,No,Falling Behind,5,Nigeria
+485,15,Male,12,8.1,6.8,Yes,Falling Behind,7,Germany
+486,16,Female,11,6.2,4.4,Yes,On Track,3,USA
+487,17,Male,12,6.7,1.0,No,On Track,8,Japan
+488,18,Female,12,8.8,7.0,No,Falling Behind,7,Brazil
+489,15,Male,12,6.6,2.7,Yes,On Track,8,Germany
+490,15,Male,11,10.0,3.2,No,Revised Fully,9,Nigeria
+491,18,Male,12,7.0,3.3,Yes,Just Started,7,Brazil
+492,15,Male,12,3.6,7.2,Yes,Just Started,7,Canada
+493,15,Female,12,7.3,1.0,Yes,Revised Fully,5,Brazil
+494,16,Female,12,6.8,10.8,No,On Track,5,UK
+495,15,Male,12,8.1,6.6,Yes,Just Started,9,Germany
+496,17,Female,12,7.2,4.9,Yes,Just Started,9,Germany
+497,17,Male,11,6.0,4.4,Yes,On Track,6,UK
+498,18,Female,11,4.4,5.1,No,Revised Fully,7,Canada
+499,15,Female,12,5.9,5.5,Yes,On Track,5,South Korea
+500,18,Female,12,4.9,5.8,No,Just Started,9,South Korea
