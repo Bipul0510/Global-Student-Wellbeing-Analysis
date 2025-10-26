@@ -9,3 +9,4 @@ Required files:
 * Wellbeing Analysisn Queries.sql
 * student life.csv
 * student_count_by_country.csv
+* Student Wellbeing Analysis.pbix
